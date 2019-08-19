@@ -1,5 +1,13 @@
 # Flask-ToDo-Web-App
-A Flask to-do list web app tutorial from freeCodeCamp
+A Flask to-do list web app tutorial from freeCodeCamp using Flask.
 
-A simple to-do list web app using Flask. 
-An amazing project to learn about routes, Jinja 2 syntax, boilerplate templates, and generally web development in Python!
+Users can:
+- create to-do list items
+- read to-do list items
+- update
+- delete
+
+What I Learnt:
+- Flask routing using decorators to show users different pages with different endpoints
+- how to write Jinja 2 syntax to integrate in HTML templates
+- how to use Flask-SQLAlchemy database
