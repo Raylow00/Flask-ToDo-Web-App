@@ -1,5 +1,5 @@
 # Flask-ToDo-Web-App
-A Flask to-do list web app tutorial from freeCodeCamp using Flask.
+A simple to-do list web app tutorial from freeCodeCamp using Flask.
 
 Users can:
 - create to-do list items
